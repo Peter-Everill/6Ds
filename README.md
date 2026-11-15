@@ -1,5 +1,5 @@
 
-# 6Ds — A Business-Led Methodology for AI Value Creation and Transformation
+# 6Ds — AI-Powered Decision Intelligence for Business Value Creation
 
 **Decisions to Value | Business economics → decisions and processes → avoidable loss → practical improvement**
 
